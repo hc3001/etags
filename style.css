@@ -64,7 +64,7 @@ img.hbgimg {
 .content_resize { border-top:none;}
 .content .mainbar { float:left; width:630px;}
 .content .mainbar .article, .content .sidebar .gadget { margin:0; padding:0 0 16px 0;}
-.content .sidebar { float:right; width:220px;}
+.content .sidebar { float:right; width:180px;}
 ul.sb_menu, ul.ex_menu { margin:0; padding:0; color:#959595;}
 ul.sb_menu li, ul.ex_menu li { margin:0; background:url(images/li.gif) no-repeat 0 12px;}
 ul.sb_menu li { padding:4px 0;}
